@@ -25,5 +25,7 @@ body {background-color: darkseagreen;
         border-style: solid;
         border-color: green;
         border-width: 8px;
+    
+        #ima2 {margin left:35%;}
 
     }
